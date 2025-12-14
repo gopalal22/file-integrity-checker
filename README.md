@@ -18,5 +18,5 @@ File Integrity Checker developed in Python as part of a cybersecurity internship
 
 # OUTPUT
 
-
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6797da9f-86e9-4d35-b3c9-9af1a70d5b81" />
 
